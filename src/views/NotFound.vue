@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h2 class="text-red-600">Not_found</h2>
+        <h3 class="uppercase text-red-800">Not found view</h3>
     </div>
 </template>
 <script>
